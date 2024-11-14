@@ -35,6 +35,8 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
 </div>
 
 ###
