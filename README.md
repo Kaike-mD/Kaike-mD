@@ -31,11 +31,15 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
 </div>
 
