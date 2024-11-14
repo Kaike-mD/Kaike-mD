@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
   <img width="12" />
 </div>
 
