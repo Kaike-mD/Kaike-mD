@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40" alt="php logo"  /></a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
